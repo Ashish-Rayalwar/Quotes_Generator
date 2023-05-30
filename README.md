@@ -1,3 +1,7 @@
+# Quotes Generator
+
+### Deploy link : https://6475b63a6b5fe24566931c65--charming-moonbeam-da4838.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
